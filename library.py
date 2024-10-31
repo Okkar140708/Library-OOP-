@@ -297,3 +297,5 @@ print(student.checkout_book([book2, book3], my_library))
 
 # Attempt to checkout more than allowed books
 print(student.checkout_book([book1, book3], my_library))
+
+print("Auf Wiedersehen")
